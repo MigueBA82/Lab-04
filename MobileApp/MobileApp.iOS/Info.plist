@@ -34,5 +34,9 @@
     <string>MobileApp</string>
     <key>XSAppIconAssets</key>
     <string>Assets.xcassets/AppIcon.appiconset</string>
+  <key>NSLocationAlwaysUsageDescription</key>
+  <string>Permiso de ubicación por siempre</string>
+  <key>NSLocationWhenInUseUsageDescription</key>
+  <string>Premiso de ubicación mientras se usa el app</string>
 </dict>
 </plist>
